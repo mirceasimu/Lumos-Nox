@@ -4,3 +4,5 @@ be from another light turned on, the outside light, etc.). The user can then tur
 turns off without the user having to get up and interrupt his workflow. We have a demo video for this.
 
 ![image](https://github.com/mirceasimu/Lumos-Nox/assets/104430675/c3c9afae-ea30-426d-8391-976786b86067)
+
+![image](https://github.com/mirceasimu/Lumos-Nox/assets/104430675/8d0e816c-6373-4505-ac8e-f9178e1192b8)
